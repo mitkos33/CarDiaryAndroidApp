@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Дневник на колата</string>
+    <string name="car_diary_fuel">Дневник гориво</string>
+    <string name="car_diary_repairs">Дневник ремонти</string>
+    <string name="car_diary_fuel_loaded_fuel">Заредено гориво: </string>
+    <string name="car_diary_fuel_price_per_liter">Цена на литър: </string>
+    <string name="car_diary_fuel_discount">Остъпка: </string>
+    <string name="car_diary_fuel_totalPrice">Обща цена: </string>
+    <string name="car_diary_fuel_since_last_time_km">Изминали Km: </string>
+    <string name="car_diary_fuel_total_Km">Общо Km</string>
+    <string name="car_diary_fuel_create_date">Дата</string>
+    <string name="car_diary_fuel_add">Добави зареждане</string>
+    <string name="car_diary_liter">л.</string>
+    <string name="car_diary_currency">лв.</string>
+    <string name="car_diary_km">км.</string>
+    <string name="close">Затвори</string>
+    <string name="save">Запиши</string>
+    <string name="please_enter_all_fields">Моля попълнете всички полета!</string>
+    <string name="delete">Изтрий</string>
+    <string name="are_you_sure_delete_this_item">Сигурни ли сте, че искате да изтриете този запис</string>
+    <string name="yes">Да</string>
+    <string name="no">Не</string>
+    <string name="deleteItem">Изтриване на запис</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="car_diary_repairs_add">Добави ремонт</string>
+    <string name="edit_car_diary_repairs_name">Име на ремонта:</string>
+    <string name="car_diary_repairs_description">"Описание: "</string>
+</resources>
